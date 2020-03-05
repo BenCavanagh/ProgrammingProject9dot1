@@ -3,6 +3,7 @@ public class Cone extends Cylinder{
 	private double _r;
 	private double _h;
 	
+	// constructor
 	public Cone(Double r, Double h) {
 		super(r, h);
 		_r = r;
